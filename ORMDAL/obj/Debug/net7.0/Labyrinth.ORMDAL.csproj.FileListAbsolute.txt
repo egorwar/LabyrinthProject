@@ -1,0 +1,17 @@
+C:\Users\tpry1\Desktop\game\ORMDAL\bin\Debug\net7.0\Labyrinth.ORMDAL.deps.json
+C:\Users\tpry1\Desktop\game\ORMDAL\bin\Debug\net7.0\Labyrinth.ORMDAL.runtimeconfig.json
+C:\Users\tpry1\Desktop\game\ORMDAL\bin\Debug\net7.0\Labyrinth.ORMDAL.dll
+C:\Users\tpry1\Desktop\game\ORMDAL\bin\Debug\net7.0\Labyrinth.ORMDAL.pdb
+C:\Users\tpry1\Desktop\game\ORMDAL\bin\Debug\net7.0\Labyrinth.Entities.dll
+C:\Users\tpry1\Desktop\game\ORMDAL\bin\Debug\net7.0\Labyrinth.Entities.pdb
+C:\Users\tpry1\Desktop\game\ORMDAL\obj\Debug\net7.0\Labyrinth.ORMDAL.csproj.AssemblyReference.cache
+C:\Users\tpry1\Desktop\game\ORMDAL\obj\Debug\net7.0\Labyrinth.ORMDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpry1\Desktop\game\ORMDAL\obj\Debug\net7.0\Labyrinth.ORMDAL.AssemblyInfoInputs.cache
+C:\Users\tpry1\Desktop\game\ORMDAL\obj\Debug\net7.0\Labyrinth.ORMDAL.AssemblyInfo.cs
+C:\Users\tpry1\Desktop\game\ORMDAL\obj\Debug\net7.0\Labyrinth.ORMDAL.csproj.CoreCompileInputs.cache
+C:\Users\tpry1\Desktop\game\ORMDAL\obj\Debug\net7.0\Labyrinth.ORMDAL.csproj.CopyComplete
+C:\Users\tpry1\Desktop\game\ORMDAL\obj\Debug\net7.0\Labyrinth.ORMDAL.dll
+C:\Users\tpry1\Desktop\game\ORMDAL\obj\Debug\net7.0\refint\Labyrinth.ORMDAL.dll
+C:\Users\tpry1\Desktop\game\ORMDAL\obj\Debug\net7.0\Labyrinth.ORMDAL.pdb
+C:\Users\tpry1\Desktop\game\ORMDAL\obj\Debug\net7.0\Labyrinth.ORMDAL.genruntimeconfig.cache
+C:\Users\tpry1\Desktop\game\ORMDAL\obj\Debug\net7.0\ref\Labyrinth.ORMDAL.dll

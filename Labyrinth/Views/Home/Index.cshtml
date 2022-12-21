@@ -1,0 +1,31 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+}
+
+<div id="outer">
+	<div id="field">
+		<div id="bef">
+			<div class="eye" id="cam1"></div>
+			<div id='filler'></div>
+			<div class="eye" id="cam2"></div>
+		</div>
+		<canvas id="no_cursor"></canvas>
+		<div id="bef">
+			<div class="eye" id="cam1"></div>
+			<div id='filler'></div>
+			<div class="eye" id="cam2"></div>
+		</div>
+	</div>
+	<p1 class="info">Hover your mouse over the green square to start</p1>
+	<p3 class="prevres"></p3>
+	<p3 class="statW">Wins: 0</p3>
+	<p3 class="statL">Losses: 0</p3>
+</div>
+
+<!-- links -->
+<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+
+<script defer src="js/generatMaze.js" asp-append-version="true"></script>
+<script defer src="js/getWay.js" asp-append-version="true"></script>
+<script defer src="js/mouseWatcher.js" asp-append-version="true"></script>
+<script defer src="js/script.js" asp-append-version="true"></script>

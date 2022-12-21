@@ -1,0 +1,68 @@
+#outer{
+  width: 100%
+}
+
+#field{
+  width: 50%;
+  margin: 0 auto;
+}
+
+.eye {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+  background: rgb(232, 224, 224);
+  margin: 0 15px;
+  border-radius: 50%;
+}
+
+.bef{
+  margin: 0 auto;
+}
+
+.eye::before {
+  content: "";
+  position: absolute;
+  display: block;
+  top: 50%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  width: 20px;
+  height: 20px;
+  background: #000;
+  border-radius: 50%;
+}
+
+#cam1{
+  margin: auto auto;
+}
+
+#cam2{
+  margin: auto 0;
+}
+
+.info{
+  font-size: 30px;
+  display: block;
+}
+
+.prevres{
+  font-size: 40px;
+  display: block;
+}
+
+.statW{
+  color: green;
+  font-size: 30px;
+}
+
+.statL{
+  color: red;
+  font-size: 30px;
+}
+
+#filler{
+  display: inline-block;
+  width: 220px
+}

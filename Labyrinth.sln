@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labyrinth", "Labyrinth\Labyrinth.csproj", "{4EB941BF-E2DF-46A7-B6EE-84D62FFFCB54}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4E7093BD-12CF-427D-898C-CB6E5E6E977B} = {4E7093BD-12CF-427D-898C-CB6E5E6E977B}
+		{76C0119D-3B62-42FF-8134-A759E217CB76} = {76C0119D-3B62-42FF-8134-A759E217CB76}
+		{D2C13D23-571B-43BD-9C28-8AD5C7823C56} = {D2C13D23-571B-43BD-9C28-8AD5C7823C56}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labyrinth.BL", "BL\Labyrinth.BL.csproj", "{B9DE1395-AD68-4B31-A520-826955B516FD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{76C0119D-3B62-42FF-8134-A759E217CB76} = {76C0119D-3B62-42FF-8134-A759E217CB76}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labyrinth.Entities", "Entities\Labyrinth.Entities.csproj", "{4E7093BD-12CF-427D-898C-CB6E5E6E977B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labyrinth.DAL", "DAL\Labyrinth.DAL.csproj", "{D2C13D23-571B-43BD-9C28-8AD5C7823C56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labyrinth.ORMDAL", "ORMDAL\Labyrinth.ORMDAL.csproj", "{76C0119D-3B62-42FF-8134-A759E217CB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EB941BF-E2DF-46A7-B6EE-84D62FFFCB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB941BF-E2DF-46A7-B6EE-84D62FFFCB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB941BF-E2DF-46A7-B6EE-84D62FFFCB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB941BF-E2DF-46A7-B6EE-84D62FFFCB54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DE1395-AD68-4B31-A520-826955B516FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DE1395-AD68-4B31-A520-826955B516FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DE1395-AD68-4B31-A520-826955B516FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DE1395-AD68-4B31-A520-826955B516FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7093BD-12CF-427D-898C-CB6E5E6E977B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7093BD-12CF-427D-898C-CB6E5E6E977B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7093BD-12CF-427D-898C-CB6E5E6E977B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7093BD-12CF-427D-898C-CB6E5E6E977B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2C13D23-571B-43BD-9C28-8AD5C7823C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C13D23-571B-43BD-9C28-8AD5C7823C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C13D23-571B-43BD-9C28-8AD5C7823C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C13D23-571B-43BD-9C28-8AD5C7823C56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C0119D-3B62-42FF-8134-A759E217CB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C0119D-3B62-42FF-8134-A759E217CB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C0119D-3B62-42FF-8134-A759E217CB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C0119D-3B62-42FF-8134-A759E217CB76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {665BDBE1-AEE9-40F6-A38D-DF8C3121EDDF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\tpry1\Desktop\game\Entities\bin\Debug\net7.0\Labyrinth.Entities.deps.json
+C:\Users\tpry1\Desktop\game\Entities\bin\Debug\net7.0\Labyrinth.Entities.dll
+C:\Users\tpry1\Desktop\game\Entities\bin\Debug\net7.0\Labyrinth.Entities.pdb
+C:\Users\tpry1\Desktop\game\Entities\obj\Debug\net7.0\Labyrinth.Entities.csproj.AssemblyReference.cache
+C:\Users\tpry1\Desktop\game\Entities\obj\Debug\net7.0\Labyrinth.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpry1\Desktop\game\Entities\obj\Debug\net7.0\Labyrinth.Entities.AssemblyInfoInputs.cache
+C:\Users\tpry1\Desktop\game\Entities\obj\Debug\net7.0\Labyrinth.Entities.AssemblyInfo.cs
+C:\Users\tpry1\Desktop\game\Entities\obj\Debug\net7.0\Labyrinth.Entities.csproj.CoreCompileInputs.cache
+C:\Users\tpry1\Desktop\game\Entities\obj\Debug\net7.0\Labyrinth.Entities.dll
+C:\Users\tpry1\Desktop\game\Entities\obj\Debug\net7.0\refint\Labyrinth.Entities.dll
+C:\Users\tpry1\Desktop\game\Entities\obj\Debug\net7.0\Labyrinth.Entities.pdb
+C:\Users\tpry1\Desktop\game\Entities\obj\Debug\net7.0\ref\Labyrinth.Entities.dll

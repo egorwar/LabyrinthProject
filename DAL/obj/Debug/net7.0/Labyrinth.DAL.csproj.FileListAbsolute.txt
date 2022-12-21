@@ -1,0 +1,17 @@
+C:\Users\tpry1\Desktop\game\DAL\bin\Debug\net7.0\Labyrinth.DAL.deps.json
+C:\Users\tpry1\Desktop\game\DAL\bin\Debug\net7.0\Labyrinth.DAL.dll
+C:\Users\tpry1\Desktop\game\DAL\bin\Debug\net7.0\Labyrinth.DAL.pdb
+C:\Users\tpry1\Desktop\game\DAL\bin\Debug\net7.0\Labyrinth.Entities.dll
+C:\Users\tpry1\Desktop\game\DAL\bin\Debug\net7.0\Labyrinth.ORMDAL.dll
+C:\Users\tpry1\Desktop\game\DAL\bin\Debug\net7.0\Labyrinth.Entities.pdb
+C:\Users\tpry1\Desktop\game\DAL\bin\Debug\net7.0\Labyrinth.ORMDAL.pdb
+C:\Users\tpry1\Desktop\game\DAL\obj\Debug\net7.0\Labyrinth.DAL.csproj.AssemblyReference.cache
+C:\Users\tpry1\Desktop\game\DAL\obj\Debug\net7.0\Labyrinth.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpry1\Desktop\game\DAL\obj\Debug\net7.0\Labyrinth.DAL.AssemblyInfoInputs.cache
+C:\Users\tpry1\Desktop\game\DAL\obj\Debug\net7.0\Labyrinth.DAL.AssemblyInfo.cs
+C:\Users\tpry1\Desktop\game\DAL\obj\Debug\net7.0\Labyrinth.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tpry1\Desktop\game\DAL\obj\Debug\net7.0\Labyrinth.DAL.csproj.CopyComplete
+C:\Users\tpry1\Desktop\game\DAL\obj\Debug\net7.0\Labyrinth.DAL.dll
+C:\Users\tpry1\Desktop\game\DAL\obj\Debug\net7.0\refint\Labyrinth.DAL.dll
+C:\Users\tpry1\Desktop\game\DAL\obj\Debug\net7.0\Labyrinth.DAL.pdb
+C:\Users\tpry1\Desktop\game\DAL\obj\Debug\net7.0\ref\Labyrinth.DAL.dll
